@@ -36,17 +36,11 @@ Prepared documentation and screenshots for configuration
 
 ## 📸 تصاویر | Screenshots
 
-### 📌 لیست افزونه‌های نصب‌شده | Installed Plugins
-![لیست افزونه‌ها | Installed Plugins](screenshots/screenshot-plugins.png)
 
 ### 📌 داشبورد وردپرس | WordPress Dashboard
-![داشبورد | Dashboard](screenshots/screenshot-dashboard.png)
-
-### 📌 تنظیمات پایه | Basic Settings
-![تنظیمات پایه | Basic Settings](screenshots/screenshot-settings.png)
+![داشبورد | Dashboard](screenshots/1.png)
 
 ---
-
 ## 📂 محتویات ریپو | Repository Contents
 - `screenshots/` → لیست افزونه‌ها و داشبورد  
 - `docs/configuration-notes.md` → یادداشت‌های پیکربندی  
